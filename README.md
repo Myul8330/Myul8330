@@ -1,4 +1,4 @@
-<h1>Hi Dear 👋, I'm Thiago Silva</h1>
+<h1 aling="center">Hi Dear 👋, I'm Thiago Silva</h1>
 <h3 align="center">❤I Love programming📚</h3>
 
 
