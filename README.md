@@ -1,5 +1,5 @@
 <h1>Hi Dear 👋, I'm Thiago Silva</h1>
-<h3 align="center">I Love programming</h3>
+<h3 align="center">❤I Love programming📚</h3>
 
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
