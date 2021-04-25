@@ -14,6 +14,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
   
-</p align="right">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250" />
+<p align="right" top="50px">
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250" height="250" />
 </p>
