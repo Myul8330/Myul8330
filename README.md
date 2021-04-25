@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi Dear 👋, I'm Thiago Silva</h1>
+<h3 align="center">I Love programming</h3>
 
-<!--
-**Myul8330/Myul8330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💬 Ask me about **JavaScript, HTML, CSS**
+- 📫 How to reach me: **myul8330hacker@gmail.com**
+- 🗺️ I'm From: Brazilian / Minas Gerais
+- 📚 I currently study: JavaScript, CSS, HTML, NODE.js
+- ⚡ Fun fact **Oneye 😜**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+</p>
