@@ -6,7 +6,7 @@
 - 📫 How to reach me: **myul8330hacker@gmail.com**
 - 🗺️ I'm From: **Brazilian / Minas Gerais**
 - 📚 I currently study: **JavaScript, CSS, HTML, NODE.js**
-- <img src='https://i.pinimg.com/originals/e5/98/c3/e598c3bde5355ab8894936ed39474312.png' width="20px">
+- <img src='https://i.pinimg.com/originals/50/5b/a3/505ba378ec0171d06ee8083210c235f6.png' width="20px"> I Love Anime / Mangá my favorites is: **tokyo ghoul, kimetsu no yaiba, Noragami, One piece**
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
