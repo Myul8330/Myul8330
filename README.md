@@ -6,6 +6,7 @@
 - 📫 How to reach me: **myul8330hacker@gmail.com**
 - 🗺️ I'm From: **Brazilian / Minas Gerais**
 - 📚 I currently study: **JavaScript, CSS, HTML, NODE.js**
+- <img src='https://i.pinimg.com/originals/e5/98/c3/e598c3bde5355ab8894936ed39474312.png' width="20px">
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
