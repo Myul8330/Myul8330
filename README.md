@@ -15,5 +15,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
   
 <p align="center">
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" height="250" />
+<img src="https://media.giphy.com/media/KccZWeWxGeGyzkJl8x/giphy.gif" width="100%" height="250" />
 </p>
