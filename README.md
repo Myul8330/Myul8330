@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Silva</h1>
 <h3 align="center">❤I Love programming📚</h3>
 
-
+- 🤔 phrase to reflect: **You are what you do repeatedly, so your success is a habit and not an act**
 - 💬 Ask me about **JavaScript, HTML, CSS**
 - 📫 How to reach me: **myul8330hacker@gmail.com**
 - 🗺️ I'm From: **Brazilian / Minas Gerais**
