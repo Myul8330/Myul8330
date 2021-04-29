@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Silva</h1>
 <h3 align="center">❤I Love programming📚</h3>
 
+- 🤔 Phrase to reflect: **You are what you do repeatedly, so your success is a habit and not an act**
 - 💬 Ask me about **JavaScript, HTML, CSS**
 - 📫 How to reach me: **myul8330hacker@gmail.com**
 - 🗺️ I'm From: **Brazilian / Minas Gerais**
 - 📚 I currently study: **JavaScript, CSS, HTML, NODE.js**
-- <img src='https://i.pinimg.com/originals/50/5b/a3/505ba378ec0171d06ee8083210c235f6.png' width="20px"> I Love Anime / Mangá my favorites is: **tokyo ghoul, kimetsu no yaiba, Noragami, One piece**
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
