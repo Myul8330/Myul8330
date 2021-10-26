@@ -4,7 +4,7 @@
 - 🤔 Phrase to reflect: **You are what you do repeatedly, so your success is a habit and not an act**
 - 💬 Ask me about **JavaScript, HTML, CSS**
 - 📫 How to reach me: **myul8330hacker@gmail.com**
-- 🗺️ I'm From: **Brazilian / Minas Gerais**
+- 🗺️ I'm From: **Brazilian / Minas Gerais
 - 📚 I currently study: **JavaScript, CSS, HTML, NODE.js**
 - ⚡ Fun fact **Oneye 😜**
 
